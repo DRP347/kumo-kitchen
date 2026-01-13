@@ -171,7 +171,7 @@ export default function Hero3D() {
       gl={{
         antialias: true,
         alpha: true,
-        physicallyCorrectLights: true,
+        /*physicallyCorrectLights: true, */
         toneMapping: THREE.ACESFilmicToneMapping,
         toneMappingExposure: 1.05,
       }}
