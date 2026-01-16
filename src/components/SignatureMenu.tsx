@@ -9,21 +9,21 @@ const signatureMenu = [
     price: '₹620',
     description:
       '24-hour pork broth, hand-pulled noodles, chashu, ajitama.',
-    image: '/images/menu/tonkotsu.jpg',
+    image: '/images/menu-1.webp',
   },
   {
     title: 'Red Miso',
     price: '₹680',
     description:
       'Fermented miso, chili oil, minced pork, spring onion.',
-    image: '/images/menu/red-miso.jpg',
+    image: '/images/menu-2.webp',
   },
   {
     title: 'Shoyu Reserve',
     price: '₹980',
     description:
       'Clear soy broth, A5 Wagyu, black truffle, onsen egg.',
-    image: '/images/menu/shoyu.jpg',
+    image: '/images/menu-3.webp',
   },
 ];
 

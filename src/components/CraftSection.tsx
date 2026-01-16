@@ -15,7 +15,7 @@ export default function CraftSection() {
           viewport={{ once: true }}
         >
           <img
-            src="/images/craft.jpg"
+            src="/images/craft.webp"
             alt="Hand-pulled noodles and steam"
           />
         </motion.div>

@@ -8,7 +8,7 @@ export default function AmbienceSection() {
       {/* Image Wrapper */}
       <div className="ambience-image-wrapper">
         <img
-          src="/images/ambience.jpg" // <-- replace with your actual path
+          src="/images/ambience.webp" // <-- replace with your actual path
           alt="Kumo Kitchen private dining ambience"
           className="ambience-image"
         />

@@ -90,7 +90,7 @@ export default function ReservationLayout() {
         {/* LEFT PANEL (Image) */}
         <div className="hidden lg:block w-1/2 relative">
           <Image
-            src="/images/reservations-mood.jpg"
+            src="/images/reservations-mood.webp"
             alt="Kumo Kitchen interior"
             fill
             priority

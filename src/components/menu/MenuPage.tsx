@@ -11,7 +11,7 @@ const SIGNATURES = [
     subtitle: "Rich Tonkotsu",
     desc: "24-hour pork broth, chashu, ajitama, scallion, nori.",
     price: "₹620",
-    image: "/images/menu-1.jpg",
+    image: "/images/menu-1.webp",
     badge: "Classic",
   },
   {
@@ -20,7 +20,7 @@ const SIGNATURES = [
     subtitle: "Spicy Red Miso",
     desc: "Red miso broth, chili oil, minced meat, sesame, negi.",
     price: "₹680",
-    image: "/images/menu-2.jpg",
+    image: "/images/menu-2.webp",
     badge: "Spicy",
   },
   {
@@ -29,7 +29,7 @@ const SIGNATURES = [
     subtitle: "Premium Shoyu",
     desc: "Clear shoyu broth, truffle oil, wagyu optional, bamboo shoots.",
     price: "₹890",
-    image: "/images/menu-3.jpg",
+    image: "/images/menu-3.webp",
     badge: "Premium",
   },
 ];
@@ -68,7 +68,7 @@ export default function MenuPage() {
             {/* Replace with your own image later */}
             <div className="menu-hero-frame">
               <Image
-                src="/images/menu-hero.jpg"
+                src="/images/menu-hero.webp"
                 alt=""
                 fill
                 priority
